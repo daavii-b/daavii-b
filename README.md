@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi</h1>
 <h3 align="center">A passionate about solving problems and creating solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daavii-b&label=Profile%20views&color=0e75b6&style=flat" alt="daavii-b" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daavii-b" alt="daavii-b" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daavii-b" alt="daavii-b" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/daavii-b/ecommerce-frontend)
 
