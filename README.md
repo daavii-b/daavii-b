@@ -30,7 +30,7 @@
 
   ##
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/daavii-b/ecommerce-frontend)
+- 🔭 I’m currently working on [ChartApplication](https://github.com/daavii-b/ChartFront)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
