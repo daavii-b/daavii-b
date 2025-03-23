@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Davi</h1>
-<h3 align="center">A passionate about solving problems and creating solutions.</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/daaviib/">
@@ -30,11 +29,10 @@
 
   ##
 
-- 🔭 I’m currently working on [ChartApplication](https://github.com/daavii-b/ChartFront)
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Clean Arch and System Design**
 
-- 💬 Ask me about **python, django, django-rest,**
+- 💬 Ask me about **Javascript, NodeJS, NestJs**
 
 - 📫 How to reach me **britodavi122@gmail.com**
 
