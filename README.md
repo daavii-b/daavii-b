@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **Clean Arch and System Design**
 
-- 💬 Ask me about **Javascript, NodeJS, NestJs**
+- 💬 Ask me about **Typescript, Javascript, NodeJS, NestJs**
 
 - 📫 How to reach me **britodavi122@gmail.com**
 
