@@ -30,13 +30,11 @@
   ##
 
 
-- 🌱 I’m currently learning **Clean Arch and System Design**
+- 🌱 I’m currently learning **Clean Architecture, System Design and Software Architecture**
 
-- 💬 Ask me about **Typescript, Javascript, NodeJS, NestJs**
+- 💬 Ask me about **Typescript, Javascript, NodeJS, NestJs, Software Architecture**
 
 - 📫 How to reach me **britodavi122@gmail.com**
-
-- ⚡ Fun fact **I like to solve problems...**
 </div>
 
   ##
