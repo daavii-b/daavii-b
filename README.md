@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davi</h1>
+<h1 align="center">Davi Brito | Fullstack Developer</h1>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/daaviib/">
@@ -13,11 +13,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daavii-b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
-
-  ##
 
 - 🌱 I’m currently learning **Clean Architecture, System Design and Software Architecture**
 
@@ -29,6 +25,7 @@
   ##
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%3178C6&color=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -46,4 +43,4 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=#E30B5D)
+![NestJS](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=E30B5D&color=black)
