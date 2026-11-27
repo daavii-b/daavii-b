@@ -15,7 +15,7 @@
 
 </div>
 
-- 🌱 I’m currently learning **Clean Architecture, System Design and Software Architecture**
+- 🌱 I’m currently learning **Clean Architecture, Domain Driven Design, System Design and Software Architecture**
 
 - 💬 Ask me about **Typescript, Javascript, NodeJS, NestJs, Software Architecture**
 
